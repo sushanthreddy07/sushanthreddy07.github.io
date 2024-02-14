@@ -1,4 +1,11 @@
 
+---
+layout: archive
+title: "Education"
+collection: education
+permalink: /education/
+author_profile: true
+---
 
 <div style="display: flex;">
   <div style="flex: 1;">
