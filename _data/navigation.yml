@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Education"
     url: /publications/
 
   - title: "Talks"
@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Resume.pdf
     
   - title: "Guide"
     url: /markdown/
