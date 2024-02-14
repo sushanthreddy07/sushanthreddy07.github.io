@@ -1,11 +1,12 @@
-
 ---
 layout: archive
 title: "Education"
-collection: education
-permalink: /education/
+collection: portfolio
+permalink: /portfolio/
 author_profile: true
 ---
+
+{% include base_path %}
 
 <div style="display: flex;">
   <div style="flex: 1;">
@@ -33,7 +34,7 @@ author_profile: true
   </div>
   <div style="flex: 1;">
     <p align="right">
-      <img src="../images/gmu.png" alt="Door-key Problem" width="200" />
+      <img src="../images/ucsd.png" alt="Door-key Problem" width="200" />
     </p>
   </div>
 </div>
@@ -63,7 +64,7 @@ author_profile: true
   </div>
   <div style="flex: 1;">
     <p align="right">
-      <img src="../images/amity.jpg" alt="Door-key Problem" width="200" />
+      <img src="../images/iitpkd.png" alt="Door-key Problem" width="200" />
     </p>
   </div>
 </div>
