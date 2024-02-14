@@ -33,7 +33,7 @@ author_profile: true
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <h2>Indian Institute of Technology (IIT), Palakkad</h2>
+    <h2>Amity University</h2>
     <p><b>GPA</b>: 9.38/10</p>
     <p><b>Location</b>: Gurugram, Haryana, India</p>
     <p><b>Degree</b>: Masters in network and cyber security</p>
