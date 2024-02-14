@@ -54,7 +54,7 @@ author_profile: true
   </div>
   <div style="flex: 1;">
     <p align="right">
-      <img src="../images/amity.jpg" alt="Door-key Problem" width="200" />
+      <img src="../images/amity1.jpg" alt="Door-key Problem" width="200" />
     </p>
   </div>
 </div>
