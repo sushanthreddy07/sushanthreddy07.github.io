@@ -44,7 +44,7 @@ author_profile: true
         <li>Advance Database Management Systems</li>
         <li>Network and Wireless Security</li>
         <li>Intrusion Detection and Prevention system</li>
-        <li>cryptography<li>
+        <li>cryptography</li>
         <li>Cyber-crime Investigation and Forensics</li>
         <li>Biometric Systems</li>
         <li> Malware Analysis</li>
