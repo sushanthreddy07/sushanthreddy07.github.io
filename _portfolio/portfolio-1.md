@@ -13,14 +13,14 @@ author_profile: true
     <h2>George Mason University</h2>
     <p><b>GPA</b>: </p>
     <p><b>Location</b>: Fairfax, VA, USA</p>
-    <p><b>Degree</b>: Masters in Data Analytics Engineering Engineering</p>
+    <p><b>Degree</b>: Masters in Data Analytics  Engineering</p>
     <p><b>Specialization</b>: Cyber analytics</p>
     <p><b>Expected Graduation</b>: March 2026</p>
     <h3>Courses</h3>
     <ul>
-        <li>STAT 515: Statistics and visualization 1</li>
+        <li>STAT 515: Statistics and visualization </li>
         <li>AIT 580 : Advanced Information Technology</li>
-        
+        <li>CS 504  : Principals of Data Mining </li>
     </ul>
   </div>
   <div style="flex: 1;">
@@ -58,3 +58,36 @@ author_profile: true
     </p>
   </div>
 </div>
+
+
+
+
+
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h2>Jawaharlal Nehru Technological University</h2>
+    <p><b>GPA</b>Percentage : 54.32%</p>
+    <p><b>Location</b>: Hyderabad, Telangana, India</p>
+    <p><b>Degree</b>: Bachelors in Computer Science Engineering</p>
+    <p><b>Duration</b>: AUG 2015 - July 2019</p>
+    <h3>Courses</h3>
+    <ul>
+        <li> Computer Networks</li>
+        <li> Database Management Systems</li>
+        <li>Operating Systems</li>
+        <li>Distributed systems</li>
+        <li>Mathemetical Methods</li>
+        <li>Probability and Statistics</li>
+        <li>Mathemetical Foundation for computer scimece</li>
+        <li> Engineering Physics</li>
+        <li>Finite automata and Formal Lnaguage</li>
+        
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <p align="right">
+      <img src="../images/jntu1.jpg" alt="Door-key Problem" width="200" />
+    </p>
+  </div>
+</div>
+
