@@ -66,7 +66,7 @@ author_profile: true
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2>Jawaharlal Nehru Technological University</h2>
-    <p><b>GPA</b>Percentage : 54.32%</p>
+    <p><b>PERCENTAGE</b>: 54.32%</p>
     <p><b>Location</b>: Hyderabad, Telangana, India</p>
     <p><b>Degree</b>: Bachelors in Computer Science Engineering</p>
     <p><b>Duration</b>: AUG 2015 - July 2019</p>
