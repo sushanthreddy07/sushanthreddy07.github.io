@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Education"
-collection: portfolio
-permalink: /portfolio/
+collection: Education
+permalink: /Education/
 author_profile: true
 ---
 
