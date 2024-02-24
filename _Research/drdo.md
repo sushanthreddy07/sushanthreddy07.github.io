@@ -23,7 +23,7 @@ author_profile: true
   </div>
   <div style="flex: 1;">
     <p align="right">
-      <img src="../images/svcl.png" alt="Door-key Problem" width="200" />
+      <img src="../images/Drdo.jpg" alt="Door-key Problem" width="200" />
     </p>
   </div>
 </div>
