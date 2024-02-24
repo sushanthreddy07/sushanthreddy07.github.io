@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Creating a data set
+## Creating a Data Set
 
 ```{r}
 # Load necessary library
@@ -31,7 +31,7 @@ print(data)
 
 ```
 
-## first redesign code
+## First Redesign Code
 
 ```{r}
 library(plotly)
@@ -90,7 +90,7 @@ final_plot
 
 ```
 
-## Second redesign code
+## Second Redesign Code
 
 ```{r}
 library(shiny)
