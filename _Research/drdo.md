@@ -16,7 +16,7 @@ author_profile: true
     <h3>Responsibilites</h3>
     <ul>
         <li>Worked on Post Quantum Cryptography</li>
-        <li>Resarched on Code based cryptography and multi-variate cryptography and implemented the algorithms using sage math
+        <li>Researched on Code based cryptography and multi-variate cryptography and implemented the algorithms using sage math
         </li>
         <li>Conducted extensive experiments on Decoders</li>
     </ul>
