@@ -1,4 +1,12 @@
+---
+layout: archive
+title: "Code snippet"
+permalink: /Code mid/
+author_profile: true
 
+---
+
+{% include base_path %}
 
 ** Creating a data set**
 
