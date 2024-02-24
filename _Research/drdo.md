@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "RESEARCH"
 collection: Research
 permalink: /Research/
 author_profile: true
@@ -16,7 +16,7 @@ author_profile: true
     <h3>Responsibilites</h3>
     <ul>
         <li>Worked on Post Quantum Cryptography</li>
-        <li>Resarched on Code based cryptography and multi-cariate cryptography and implemented the algorithms using sage math
+        <li>Resarched on Code based cryptography and multi-variate cryptography and implemented the algorithms using sage math
         </li>
         <li>Conducted extensive experiments on Decoders</li>
     </ul>
