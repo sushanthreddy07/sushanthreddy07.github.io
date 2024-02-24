@@ -1,20 +1,13 @@
 # main links links
 main:
-  #- title: "Education"
-  #  url: /teaching/
+  - title: "Research"
+    url: /Research/
 
- # - title: "Talks"
-   # url: /talks/     
-
-  # - title: "Education"
-   #  url: /teaching/    
     
   - title: "EDUCATION"
     url: /Education/
         
- # - title: "Blog Posts"
-   # url: /year-archive/
-    
+ 
   - title: "CV"
     url: /files/sushanth reddy rachala cv.pdf
 
