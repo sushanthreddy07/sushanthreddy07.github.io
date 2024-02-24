@@ -12,7 +12,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2>Graduate Research | DRDO Lab</h2>
     <p><b>Location</b>: Karnataka, Banglore, India</p>
-    <p><b>Duration</b>: July 2022 - july 2023 | 12 mos</p>
+    <p><b>Duration</b>: July 2022 - July 2023 | 12 mos</p>
     <h3>Responsibilites</h3>
     <ul>
         <li>Worked on Post Quantum Cryptography</li>
