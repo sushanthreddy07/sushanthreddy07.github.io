@@ -11,7 +11,7 @@ author_profile: true
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2>Project Trainee | DRDO LAB</h2>
-    <h4>Worked Under | Dr. Bhupendra Singh (Scientist 'F')</h4>
+    <h4>Guide | Dr. Bhupendra Singh (Scientist 'F')</h4>
     <p><b>Location</b>: Karnataka, Banglore, India</p>
     <p><b>Duration</b>: July 2022 - July 2023 | 12 mos</p>
     <h3>Responsibilites</h3>
