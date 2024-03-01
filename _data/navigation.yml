@@ -13,11 +13,11 @@ main:
 
 
     
-  - title: "Video Presentation"
+  - title: "Video Presentation Mid project"
     url: /Video Presentation Mid Project/
 
- # - title: "Code Snippet R"
-   # url: /Code mid/
+  - title: "Mid project Documentation"
+    #url: /Code mid/
 
-  - title: "Code Snippet R"
+  - title: "Code Snippet R Midproject"
     url: /files/code-midproject.html
