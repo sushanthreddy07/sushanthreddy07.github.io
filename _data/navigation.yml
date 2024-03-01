@@ -16,8 +16,8 @@ main:
   - title: "Video Presentation"
     url: /Video Presentation Mid Project/
 
-  - title: "Code Snippet R"
-    url: /Code mid/
+ # - title: "Code Snippet R"
+   # url: /Code mid/
 
-  - title: "html code"
+  - title: "Code Snippet R"
     url: /files/code-midproject.html
