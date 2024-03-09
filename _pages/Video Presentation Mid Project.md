@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Video Presentation link"
+title: "Video Presentation"
 permalink: /Video Presentation Mid Project/
 author_profile: true
 
