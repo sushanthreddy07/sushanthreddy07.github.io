@@ -11,7 +11,7 @@ author_profile: true
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2>George Mason University</h2>
-    <p><b>GPA</b>:3.78/4.00 </p>
+    <p><b>GPA</b>:3.40/4.00 </p>
     <p><b>Location</b>: Fairfax, VA, USA</p>
     <p><b>Degree</b>: Masters in Data Analytics  Engineering</p>
     <p><b>Specialization</b>: Cyber analytics</p>
