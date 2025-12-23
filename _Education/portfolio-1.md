@@ -21,6 +21,14 @@ author_profile: true
         <li>STAT 515: Statistics and visualization </li>
         <li>AIT 580 : Advanced Information Technology</li>
         <li>CS 504  : Principals of Data Mining </li>
+        <li>DFOR 660: Network Forensics</li>
+        <li>DFOR 767: Penetration Testing in Dig For</li>
+        <li>OR 531: Intro Analytics &amp; Modeling</li>
+        <li>DFOR 510: Digital Forensics Analysis</li>
+        <li>DFOR 661: Digital Media Forensics</li>
+        <li>DFOR 761: Malware Reverse Engineering</li>
+        <li>DAEN 690: Data Analytics Project</li>
+        
     </ul>
   </div>
   <div style="flex: 1;">
